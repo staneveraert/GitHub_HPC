@@ -12,6 +12,6 @@ If you don't understand the warning or error, contact the helpdesk at
 hpc@ugent.be 
 
 
-Starting long calculation...
-Calculation result: 333333328333333350000000
-Time taken: 10.08 seconds
+Starting parallel calculation...
+Calculation result: 333333330483333341454999992286
+Time taken: 23.49 seconds
