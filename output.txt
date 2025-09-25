@@ -1,0 +1,17 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"Python/3.11.4-GCCcore-12.3.0"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "Python/3.11.4-GCCcore-12.3.0"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+If you don't understand the warning or error, contact the helpdesk at
+hpc@ugent.be 
+
+
+Starting long calculation...
+Calculation result: 333333328333333350000000
+Time taken: 10.08 seconds
